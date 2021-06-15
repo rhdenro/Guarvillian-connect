@@ -1,0 +1,4 @@
+# Project exclude paths
+/node_modules/
+/dbconfig.js/
+/fcm-guarvilian-firebase-adminsdk-u764c-3403c03111.json/
